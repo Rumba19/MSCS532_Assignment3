@@ -19,7 +19,7 @@ The project includes:
    ```bash
    pip3 install numpy
 
-## **Clone the Repository**
+## **How to Run*
   ```bash
 git clone https://github.com/Rumba19/MSCS532_Assignment3
 cd MSCS532_ASSIGNMENT3
