@@ -23,6 +23,5 @@ The project includes:
   ```bash
 git clone https://github.com/Rumba19/MSCS532_Assignment3
 cd MSCS532_ASSIGNMENT3
-python3 randomized_quicksort.py
-python3 determinstic.quicksort.py
 python3 benchmark.py
+python3 hash_table.py
