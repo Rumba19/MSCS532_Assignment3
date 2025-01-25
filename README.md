@@ -20,15 +20,9 @@ The project includes:
    pip3 install numpy
 
 ## **Clone the Repository**
-- git clone https://github.com/Rumba19/MSCS532_Assignment3
-- cd MSCS532_ASSIGNMENT3
-
-
-
-**Run individual python script file**: 
-1. Randomized Quick Sort:
+  ```bash
+git clone https://github.com/Rumba19/MSCS532_Assignment3
+cd MSCS532_ASSIGNMENT3
 python3 randomized_quicksort.py
-2. Deterministic Quick Sort:
 python3 determinstic.quicksort.py
-3. Benchmark comparing execution time
 python3 benchmark.py
