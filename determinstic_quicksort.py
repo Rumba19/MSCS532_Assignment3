@@ -13,3 +13,9 @@ def deterministic_quicksort(arr, low, high):
         pivot_index = deterministic_partition(arr, low, high)
         deterministic_quicksort(arr, low, pivot_index - 1)
         deterministic_quicksort(arr, pivot_index + 1, high)
+
+
+# hard coded array
+# array = [5, 20, 9, 15, 3, 6, 0]
+# deterministic_quicksort(array, 0, len(array) - 1)
+# print(array)
